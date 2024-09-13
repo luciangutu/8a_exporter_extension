@@ -17,7 +17,7 @@ This Chrome extension helps you export your climbing ascents from 8a.nu website 
 
 ## Usage
 
-1. Navigate to the webpage containing the table of climbing ascents (https://www.8a.nu/user/<your_username>/bouldering).
+1. Navigate to the webpage containing the table of climbing ascents (`https://www.8a.nu/user/<your_username>/bouldering`).
 2. Scroll down to ensure the table is fully loaded.
 3. Click on the extension icon in the Chrome toolbar.
 4. Click the "Export Ascents" button in the popup.
